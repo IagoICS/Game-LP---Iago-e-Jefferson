@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1633487095
+    locked: 0
+  - name: Materiais
+    uniqueID: 2801105689
+    locked: 0
+  - name: Personagem
+    uniqueID: 773312687
+    locked: 0
+  - name: Bola
+    uniqueID: 2480512265
+    locked: 0
+  - name: Foreground
+    uniqueID: 3241513379
+    locked: 0
