@@ -411,7 +411,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &268484862
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -545,7 +545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &307482801
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -32583,7 +32583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &503678304
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -43877,7 +43877,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: fc767d03bf914d949bba762c2bb3dda7, type: 3}
@@ -43998,7 +43998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &572513351
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -44132,7 +44132,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &712857057
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -44244,6 +44244,7 @@ GameObject:
   m_Component:
   - component: {fileID: 734559279}
   - component: {fileID: 734559278}
+  - component: {fileID: 734559283}
   - component: {fileID: 734559281}
   - component: {fileID: 734559282}
   m_Layer: 0
@@ -44358,6 +44359,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.14, y: 0.2}
   m_EdgeRadius: 0
+--- !u!114 &734559283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734559276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e35f43b9f3cfd446a69ab2219ba1b93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotateChange: {x: 0, y: 0, z: 0.5}
 --- !u!1 &997706259
 GameObject:
   m_ObjectHideFlags: 0
@@ -45563,7 +45577,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &1151241295
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -45697,7 +45711,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &1243153368
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -45831,7 +45845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &1590399836
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -45965,7 +45979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &1673692943
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -46099,7 +46113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &1817625258
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -46233,7 +46247,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &1860443237
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -46537,7 +46551,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8c87be928fe294180f939469fce6f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: -0.02, y: 0, z: 0}
+  positionChange: {x: -0.04, y: 0, z: 0}
 --- !u!68 &2045032671
 EdgeCollider2D:
   m_ObjectHideFlags: 0
